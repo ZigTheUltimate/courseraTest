@@ -1,0 +1,21 @@
+body {
+	background: lightsteelblue;
+	font-size: 125%;
+}
+
+h1 {
+	font-size: 1.2em;
+	text-align:center;
+}
+
+div{
+	float:left;
+	width: 33%;
+}
+
+@media (max-width: 748px) {
+	.col-sl-12 {
+		width: 100%;
+	}
+}
+
