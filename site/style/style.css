@@ -39,9 +39,11 @@ p {
 	.col-lg-1 > div, .col-lg-2 > div, .col-lg-3 > div, .col-lg-4 > div, .col-lg-5 > div, .col-lg-6 > div, .col-lg-12 > div {
 		border: 4px solid 	black;
 		font-size: 24px;
-		overflow: auto;
 		background: grey;
-		max-height: 150px;
+	}
+
+	.col-lg-1 > div > p, .col-lg-1 > div > p, .col-lg-1 > div > p, .col-lg-1 > div > p, .col-lg-1 > div > p, .col-lg-1 > div > p {
+		max-height: 250px;
 		overflow: auto;
 	}
 
