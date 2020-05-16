@@ -43,6 +43,7 @@ p {
 	}
 
 	.col-lg-1 > div > p, .col-lg-1 > div > p, .col-lg-1 > div > p, .col-lg-1 > div > p, .col-lg-1 > div > p, .col-lg-1 > div > p {
+		min-height: 250px;
 		max-height: 250px;
 		overflow: auto;
 	}
@@ -86,7 +87,7 @@ p {
 	}
 	
 	.col-md-1 > div > p, .col-md-2 > div > p, .col-md-3 > div > p, .col-md-4 > div > p, .col-md-6 > div > p, .col-md-12 > div > p {
-
+		min-height: 250px;
 		max-height: 150px;
 		overflow: auto;
 	}
@@ -131,7 +132,7 @@ p {
 	}
 
 	.col-sl-1 > div > p, .col-sl-2 > div > p, .col-sl-3 > div > p, .col-sl-4 > div > p, .col-sl-6 > div > p, .col-sl-12 > div > p {
-
+		min-height: 250px;
 		max-height: 150px;
 		overflow: auto;
 	}
